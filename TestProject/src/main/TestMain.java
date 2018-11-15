@@ -7,5 +7,16 @@ public class TestMain {
 		System.out.println("Hello world! Build successful");
 		System.out.println("Un nou commit");
 		System.out.println("Commit pe branch 2");
+		System.out.println("2");
+		System.out.println("Un nou commit");
+		System.out.println("Commit pe branch 2");
+		System.out.println("3");
+		System.out.println("Un nou commit");
+		System.out.println("Commit pe branch 2");
+		sads
 	}
+	dsa
+	s
 }
+sda
+dsa
