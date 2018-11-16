@@ -18,5 +18,6 @@ public class TestMain {
 		tc.setNumar(10);
 		tc.setNume("Ioana");
 		System.out.println(tc);
+
 	}
 }
