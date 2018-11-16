@@ -13,10 +13,10 @@ public class TestMain {
 		System.out.println("3");
 		System.out.println("Un nou commit");
 		System.out.println("Commit pe branch 2");
-		sads
+		
+		TestClass tc = new TestClass();
+		tc.setNumar(10);
+		tc.setNume("Ioana");
+		System.out.println(tc);
 	}
-	dsa
-	s
 }
-sda
-dsa
